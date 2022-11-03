@@ -1,1 +1,7 @@
-# otus-professional
+# Курс OTUS ["Разработчик Java"]
+
+
+Группа 2022-06
+
+### Студент:
+Aleksandr Chalyy (Александр Чалый)
